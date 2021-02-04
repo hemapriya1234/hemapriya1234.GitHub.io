@@ -2,4 +2,4 @@
 This is my website
 ## Education Details
 **College Name:**Sri vasavi Engineering college 
-**Branch:** Electronics communication and technology
+**Branch:** Electronics and Communication Technology
