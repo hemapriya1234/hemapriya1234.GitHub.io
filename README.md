@@ -1,5 +1,2 @@
-# hemapriya1234.GitHub.io
-This is my website
-## Education Details
-**College Name:**Sri Vasavi Engineering college 
-**Branch:** Electronics and Communication Technology
+# CLI_password_generator-
+CLI python program to generate strong password based on user preferences. 
